@@ -9,7 +9,7 @@ Also, try [https://springvue-1.herokuapp.com/api/messages/hello](https://springv
 
 ## TODO
 * add [vuex store](https://blog.logrocket.com/vue-typescript-tutorial-examples/#data)
-
+* Add auto-deploy to Heroku
 
 ## Dev
 * Change code
