@@ -13,7 +13,15 @@ Also, try [https://springvue-1.herokuapp.com/api/messages/hello](https://springv
 
 ## Dev
 * Change code
-* Run app
+  * Build and run backend (alternatively, with an IDE's Run button)
+    ```shell
+    mvn clean package
+    java -jar target/springvue-0.0.1-SNAPSHOT.jar
+    ```
+  * Run frontend
+    ```shell
+    npm run serve
+    ```
 
 ## Deploy
 * Build package
