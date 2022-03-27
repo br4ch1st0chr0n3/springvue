@@ -96,7 +96,7 @@
                 </executions>
                 <configuration>
                     <nodeVersion>${node.version}</nodeVersion>
-                    <workingDirectory>src/frontend</workingDirectory>
+                    <workingDirectory>src/ui</workingDirectory>
                 </configuration>
             </plugin>
 
@@ -114,7 +114,7 @@
                             <outputDirectory>target/classes/static</outputDirectory>
                             <resources>
                                 <resource>
-                                    <directory>src/frontend/dist</directory>
+                                    <directory>src/ui/dist</directory>
                                     <filtering>true</filtering>
                                 </resource>
                             </resources>
