@@ -1,6 +1,6 @@
 # Sample Spring Boot + Vue.js app
 
-Visit [here](https://springvue-1.herokuapp.com/)
+Visit [https://springvue-1.herokuapp.com/](https://springvue-1.herokuapp.com/)
 
 Also, try [https://springvue-1.herokuapp.com/api/messages/hello](https://springvue-1.herokuapp.com/api/messages/hello)
 
